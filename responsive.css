@@ -28,7 +28,21 @@
     }
     /* Tablet */
     @media (min-width: 740px) and (max-width: 1023px){
-        
+        .footer .footer__dowload
+        {
+            display: none;
+        }
+        .footer .footer__heading
+        {
+            display: none;
+        }
+        .header .select-input{
+            display: none;
+        }
+        .app__container .home-filter__page
+        {
+            display: none;
+        }
     }
     
     /* Mobile */
