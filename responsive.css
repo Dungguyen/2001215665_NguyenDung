@@ -179,4 +179,8 @@
         {
             display: none;
         }
+        .header .header__search-btn
+        {
+            width: 2rem;
+        }
     }
