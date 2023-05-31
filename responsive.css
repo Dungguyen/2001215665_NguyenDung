@@ -129,4 +129,16 @@
         {
             display: none;
         }
+        .app__container .home-product-item__sold
+        {
+            display: none;
+        }
+        .app__container .home-product-item__name
+        {
+            font-size: 1rem;
+        }
+        .app__container .category-item
+        {
+            font-size: 2rem;
+        }
     }
