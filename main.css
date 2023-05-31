@@ -1075,6 +1075,12 @@
     bottom: 0;
     left: 0;
     background-color: rgba(0,0,0,0.04);
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+.modal.open{
+    display: flex;
 }
 .modal__body{
     animation: modalFadeIn ease 0.3s;
