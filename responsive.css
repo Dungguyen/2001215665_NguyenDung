@@ -175,4 +175,8 @@
             width: 25px;
             height: 16px;
         }
+        .app__container .home-product-item__origin
+        {
+            display: none;
+        }
     }
